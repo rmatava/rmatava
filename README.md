@@ -1,5 +1,5 @@
 - 👋 Hi, I’m rodreck matava.
-- 👀 I’m interested in web Applications development.
+- 👀 I’m interested in web Application development.
 - 🌱 I’m currently learning Java EE 7 / CS50
 - 💞️ I’m looking to collaborate on web application projects 
 - 📫 I am reached on rmatava9@gmail.com.
